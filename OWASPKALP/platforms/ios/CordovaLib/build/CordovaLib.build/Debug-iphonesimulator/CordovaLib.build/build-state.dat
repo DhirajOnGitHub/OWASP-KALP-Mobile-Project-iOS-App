@@ -1,0 +1,1159 @@
+TCordovaLib
+v6
+r1
+cCheck dependencies
+cCpHeader Classes/NSDictionary+Extensions.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+cCpHeader Classes/CDVInvokedUrlCommand.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+cCpHeader Classes/NSData+Base64.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+cCpHeader Classes/CDVPluginResult.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+cCpHeader Classes/CDVPlugin.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+cCpHeader Classes/CDVDebug.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+cCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+cCpHeader Classes/CDVWhitelist.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+cCpHeader Classes/CDVURLProtocol.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+cCpHeader Classes/CDVViewController.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+cCpHeader Classes/CDVCommandDelegate.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+cCpHeader Classes/CDV.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDV.h
+cCpHeader Classes/CDVAvailability.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+cCpHeader Classes/CDVLocalStorage.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+cCpHeader Classes/UIDevice+Extensions.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+cCpHeader Classes/NSArray+Comparisons.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+cCpHeader Classes/CDVCommandQueue.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+cCpHeader Classes/CDVCommandDelegateImpl.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+cCpHeader Classes/CDVShared.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+cCpHeader Classes/CDVScreenOrientationDelegate.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+cCpHeader Classes/CDVConfigParser.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+cCpHeader Classes/CDVJSON.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+cCpHeader Classes/CDVWebViewDelegate.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+cCpHeader Classes/CDVUserAgentUtil.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+cCpHeader Classes/CDVTimer.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+cProcessPCH /var/folders/tx/r6qyxf2145j8sv4mnvrzvf2c0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-afeymiwwrisvmebvicuyldjwkbbm/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/libCordova.a normal i386
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000533B9F9C00000000000003B4
+t1396416412
+s948
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000533B9FA9000000000000019E
+t1396416425
+s414
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDV.h
+c00000000546A53740000000000000516
+t1416254324
+s1302
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+c00000000546A53740000000000000D73
+t1416254324
+s3443
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+c00000000546A537400000000000007D6
+t1416254324
+s2006
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+c00000000546A537400000000000004E2
+t1416254324
+s1250
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+c00000000546A53740000000000001811
+t1416254324
+s6161
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+c00000000546A53740000000000000503
+t1416254324
+s1283
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+c00000000546A53740000000000001ED0
+t1416254324
+s7888
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+c00000000546A537400000000000004CB
+t1416254324
+s1227
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+c00000000546A53740000000000000EBF
+t1416254324
+s3775
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVDebug.h
+c00000000546A53740000000000000401
+t1416254324
+s1025
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+c00000000546A537400000000000007E6
+t1416254324
+s2022
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+c00000000546A53740000000000000DDE
+t1416254324
+s3550
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVJSON.h
+c00000000546A537400000000000003DA
+t1416254324
+s986
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVJSON.m
+c00000000546A537400000000000009A1
+t1416254324
+s2465
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+c00000000546A537400000000000006CF
+t1416254324
+s1743
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+c00000000546A53740000000000004DE6
+t1416254324
+s19942
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+c00000000546A53740000000000000A00
+t1416254324
+s2560
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+c00000000546A5374000000000000173C
+t1416254324
+s5948
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+c00000000546A53740000000000000DB3
+t1416254324
+s3507
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+c00000000546A53740000000000001AEA
+t1416254324
+s6890
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+c00000000546A53740000000000000408
+t1416254324
+s1032
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVShared.h
+c00000000546A53740000000000000393
+t1416254324
+s915
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVTimer.h
+c00000000546A5374000000000000038D
+t1416254324
+s909
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVTimer.m
+c00000000546A53740000000000000AA2
+t1416254324
+s2722
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+c00000000546A5374000000000000041C
+t1416254324
+s1052
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+c00000000546A53740000000000002672
+t1416254324
+s9842
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+c00000000546A53740000000000000421
+t1416254324
+s1057
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+c00000000546A53740000000000001361
+t1416254324
+s4961
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVViewController.h
+c00000000546A53740000000000000ACC
+t1416254324
+s2764
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVViewController.m
+c00000000546A53740000000000009072
+t1416254324
+s36978
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+c00000000546A53740000000000000686
+t1416254324
+s1670
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+c00000000546A53740000000000003992
+t1416254324
+s14738
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+c00000000546A537400000000000004B4
+t1416254324
+s1204
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+c00000000546A537400000000000029D5
+t1416254324
+s10709
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+c00000000546A53740000000000000392
+t1416254324
+s914
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+c00000000546A537400000000000004D8
+t1416254324
+s1240
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+c00000000546A53740000000000000590
+t1416254324
+s1424
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+c00000000546A5374000000000000254B
+t1416254324
+s9547
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+c00000000546A537400000000000005DA
+t1416254324
+s1498
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+c00000000546A53740000000000001059
+t1416254324
+s4185
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+c00000000546A537400000000000003A0
+t1416254324
+s928
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+c00000000546A53740000000000000584
+t1416254324
+s1412
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+c00000000546A53740000000000000476
+t1416254324
+s1142
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+c00000000546A53740000000000000620
+t1416254324
+s1568
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/CordovaLib_Prefix.pch
+c00000000546A53740000000000000346
+t1416254324
+s838
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o
+t1416254369
+s63916
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o
+t1416254369
+s61412
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o
+t1416254368
+s27472
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o
+t1416254365
+s18264
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o
+t1416254368
+s10584
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o
+t1416254367
+s106724
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o
+t1416254367
+s57576
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o
+t1416254365
+s36528
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o
+t1416254369
+s22616
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o
+t1416254367
+s68960
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o
+t1416254369
+s50792
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o
+t1416254369
+s163824
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o
+t1416254369
+s69064
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o
+t1416254365
+s43136
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/Cordova.LinkFileList
+c00000000546A53970000000000000CA0
+t1416254359
+s3232
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o
+t1416254368
+s7228
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o
+t1416254365
+s10904
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o
+t1416254365
+s17344
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o
+t1416254365
+s6788
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o
+t1416254368
+s9212
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDV.h
+t1416254359
+s1302
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+t1416254359
+s3443
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+t1416254359
+s2006
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+t1416254359
+s1250
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+t1416254359
+s1283
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+t1416254359
+s1227
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+t1416254359
+s1025
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+t1416254359
+s2022
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+t1416254359
+s986
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+t1416254359
+s1743
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+t1416254359
+s2560
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+t1416254359
+s3507
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+t1416254359
+s1032
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+t1416254359
+s915
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+t1416254359
+s909
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+t1416254359
+s1052
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+t1416254359
+s1057
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+t1416254359
+s2764
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+t1416254359
+s1670
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+t1416254359
+s1204
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+t1416254359
+s914
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+t1416254359
+s1424
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+t1416254359
+s1498
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+t1416254359
+s928
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+t1416254359
+s1142
+
+N/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/libCordova.a
+t1416254369
+s860096
+
+N/var/folders/tx/r6qyxf2145j8sv4mnvrzvf2c0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-afeymiwwrisvmebvicuyldjwkbbm/CordovaLib_Prefix.pch.pch
+t1416254364
+s3243392
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesd8f147a313bcba41^4b5748a513bcba41^---0#1#1#--18"Check dependencies36"8965C933-3EFF-4E3B-BA9A-0C5D6C1D183B-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s437947168.328706
+e437947169.147113
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m232"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o [1mClasses/CDVCommandDelegateImpl.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler747c54208b1aba41^19ab25218b1aba41^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m0000000000000000^3889"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o [1mClasses/CDVCommandDelegateImpl.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator -DDEBUG -include /var/folders/tx/r6qyxf2145j8sv4mnvrzvf2c0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-afeymiwwrisvmebvicuyldjwkbbm/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.d --serialize-diagnostics /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.dia -c /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m -o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o36"54C98E40-C422-411C-A150-ABBAEB56471B-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s437947168.005779
+e437947169.071411
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m218"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o [1mClasses/CDVCommandQueue.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc2c201208b1aba41^3b5112218b1aba41^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m0000000000000000^3847"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o [1mClasses/CDVCommandQueue.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator -DDEBUG -include /var/folders/tx/r6qyxf2145j8sv4mnvrzvf2c0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-afeymiwwrisvmebvicuyldjwkbbm/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.d --serialize-diagnostics /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.dia -c /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m -o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o36"D171DD51-9148-4FD8-A61E-715775186DA7-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s437947168.638428
+e437947168.796548
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVConfigParser.m218"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o [1mClasses/CDVConfigParser.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2558a4208b1aba41^a627cc208b1aba41^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVConfigParser.m0000000000000000^3847"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o [1mClasses/CDVConfigParser.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator -DDEBUG -include /var/folders/tx/r6qyxf2145j8sv4mnvrzvf2c0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-afeymiwwrisvmebvicuyldjwkbbm/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.d --serialize-diagnostics /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.dia -c /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVConfigParser.m -o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o36"0C1C2D52-A605-4A6C-B648-90D7714CA45C-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s437947164.422174
+e437947165.600134
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m228"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o [1mClasses/CDVInvokedUrlCommand.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4ca46c1c8b1aba41^08af991d8b1aba41^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m0000000000000000^3877"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o [1mClasses/CDVInvokedUrlCommand.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator -DDEBUG -include /var/folders/tx/r6qyxf2145j8sv4mnvrzvf2c0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-afeymiwwrisvmebvicuyldjwkbbm/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.d --serialize-diagnostics /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.dia -c /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m -o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o36"0FFC132E-A71A-4598-8D37-9132791B4FB4-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s437947168.797662
+e437947168.906783
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVJSON.m
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVJSON.m202"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o [1mClasses/CDVJSON.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6d8dcc208b1aba41^f624e8208b1aba41^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVJSON.m0000000000000000^3799"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o [1mClasses/CDVJSON.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator -DDEBUG -include /var/folders/tx/r6qyxf2145j8sv4mnvrzvf2c0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-afeymiwwrisvmebvicuyldjwkbbm/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.d --serialize-diagnostics /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.dia -c /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVJSON.m -o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o36"CB5B39C7-E52A-4F38-BB94-1B9685BB591D-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s437947165.911091
+e437947168.004535
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m218"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o [1mClasses/CDVLocalStorage.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4f07ea1d8b1aba41^6b2801208b1aba41^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m0000000000000000^3847"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o [1mClasses/CDVLocalStorage.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator -DDEBUG -include /var/folders/tx/r6qyxf2145j8sv4mnvrzvf2c0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-afeymiwwrisvmebvicuyldjwkbbm/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.d --serialize-diagnostics /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.dia -c /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m -o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o36"3D5A5E95-14F5-45F9-8F6C-81C887433EE7-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s437947165.578875
+e437947167.783428
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVPlugin.m206"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o [1mClasses/CDVPlugin.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf6b7941d8b1aba41^e38dc81f8b1aba41^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVPlugin.m0000000000000000^3811"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o [1mClasses/CDVPlugin.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator -DDEBUG -include /var/folders/tx/r6qyxf2145j8sv4mnvrzvf2c0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-afeymiwwrisvmebvicuyldjwkbbm/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.d --serialize-diagnostics /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.dia -c /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVPlugin.m -o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o36"BDACC937-12B3-4D69-B262-7EDBC0AE5AB6-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s437947164.425355
+e437947165.700929
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVPluginResult.m218"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o [1mClasses/CDVPluginResult.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb56c6d1c8b1aba41^f27bb31d8b1aba41^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVPluginResult.m0000000000000000^3847"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o [1mClasses/CDVPluginResult.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator -DDEBUG -include /var/folders/tx/r6qyxf2145j8sv4mnvrzvf2c0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-afeymiwwrisvmebvicuyldjwkbbm/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.d --serialize-diagnostics /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.dia -c /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVPluginResult.m -o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o36"8F2C1241-B247-4865-9C5C-D5D96D10A06C-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s437947169.148484
+e437947169.291631
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVTimer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVTimer.m
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVTimer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVTimer.m204"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o [1mClasses/CDVTimer.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler896226218b1aba41^b5a94a218b1aba41^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVTimer.m0000000000000000^3805"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o [1mClasses/CDVTimer.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator -DDEBUG -include /var/folders/tx/r6qyxf2145j8sv4mnvrzvf2c0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-afeymiwwrisvmebvicuyldjwkbbm/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.d --serialize-diagnostics /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.dia -c /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVTimer.m -o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o36"284C1EE8-A5DD-4488-BE29-8DC17C4B7D76-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s437947165.701750
+e437947167.862642
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m216"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o [1mClasses/CDVURLProtocol.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb189b41d8b1aba41^23d8dc1f8b1aba41^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m0000000000000000^3841"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o [1mClasses/CDVURLProtocol.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator -DDEBUG -include /var/folders/tx/r6qyxf2145j8sv4mnvrzvf2c0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-afeymiwwrisvmebvicuyldjwkbbm/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.d --serialize-diagnostics /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.dia -c /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m -o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o36"A93816FF-C406-4FE4-930C-6E5E646F3795-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s437947168.907970
+e437947169.589012
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m220"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o [1mClasses/CDVUserAgentUtil.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb8c9e8208b1aba41^5ef796218b1aba41^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m0000000000000000^3853"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o [1mClasses/CDVUserAgentUtil.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator -DDEBUG -include /var/folders/tx/r6qyxf2145j8sv4mnvrzvf2c0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-afeymiwwrisvmebvicuyldjwkbbm/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.d --serialize-diagnostics /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.dia -c /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m -o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o36"E7155FD2-B5E3-432A-8E35-4900A7A06E13-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s437947165.716330
+e437947169.597083
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVViewController.m
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVViewController.m222"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o [1mClasses/CDVViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler00c6b71d8b1aba41^40dd98218b1aba41^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVViewController.m0000000000000000^3859"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o [1mClasses/CDVViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator -DDEBUG -include /var/folders/tx/r6qyxf2145j8sv4mnvrzvf2c0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-afeymiwwrisvmebvicuyldjwkbbm/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.d --serialize-diagnostics /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.dia -c /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVViewController.m -o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o36"6288F4B6-5677-47AB-A30D-ACC694B2578B-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s437947169.073785
+e437947169.715007
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m224"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o [1mClasses/CDVWebViewDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera73f13218b1aba41^020cb7218b1aba41^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m0000000000000000^3865"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o [1mClasses/CDVWebViewDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator -DDEBUG -include /var/folders/tx/r6qyxf2145j8sv4mnvrzvf2c0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-afeymiwwrisvmebvicuyldjwkbbm/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.d --serialize-diagnostics /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.dia -c /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m -o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o36"C32D4B07-F07E-4561-B1AA-1ED3C040F366-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s437947165.601283
+e437947165.909759
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVWhitelist.m212"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o [1mClasses/CDVWhitelist.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4e0e9b1d8b1aba41^4beae81d8b1aba41^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVWhitelist.m0000000000000000^3829"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o [1mClasses/CDVWhitelist.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator -DDEBUG -include /var/folders/tx/r6qyxf2145j8sv4mnvrzvf2c0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-afeymiwwrisvmebvicuyldjwkbbm/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.d --serialize-diagnostics /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.dia -c /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVWhitelist.m -o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o36"37EF8D7F-64AD-4DAB-A09B-E9C0ECC0D04E-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s437947167.868136
+e437947168.325290
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m226"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o [1mClasses/NSArray+Comparisons.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8aabde1f8b1aba41^284953208b1aba41^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m0000000000000000^3871"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o [1mClasses/NSArray+Comparisons.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator -DDEBUG -include /var/folders/tx/r6qyxf2145j8sv4mnvrzvf2c0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-afeymiwwrisvmebvicuyldjwkbbm/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.d --serialize-diagnostics /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.dia -c /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m -o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o36"293676A8-41E0-48D3-B47A-5C63F71D4C9B-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s437947164.423288
+e437947165.577361
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSData+Base64.m214"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o [1mClasses/NSData+Base64.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9ca56c1c8b1aba41^300f951d8b1aba41^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSData+Base64.m0000000000000000^3835"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o [1mClasses/NSData+Base64.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator -DDEBUG -include /var/folders/tx/r6qyxf2145j8sv4mnvrzvf2c0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-afeymiwwrisvmebvicuyldjwkbbm/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.d --serialize-diagnostics /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.dia -c /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSData+Base64.m -o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o36"F27DFF22-CE20-4545-A179-8BBB2077A951-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s437947164.419343
+e437947165.574908
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m234"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o [1mClasses/NSDictionary+Extensions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5ce36b1c8b1aba41^302c931d8b1aba41^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m0000000000000000^3895"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o [1mClasses/NSDictionary+Extensions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator -DDEBUG -include /var/folders/tx/r6qyxf2145j8sv4mnvrzvf2c0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-afeymiwwrisvmebvicuyldjwkbbm/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.d --serialize-diagnostics /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.dia -c /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m -o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o36"7D83A15E-6270-4567-BC4F-59D86A8FAD83-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s437947165.583214
+e437947165.714713
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compile /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m246"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o [1mClasses/NSMutableArray+QueueAdditions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2bbe951d8b1aba41^1efeb61d8b1aba41^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m0000000000000000^3931"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o [1mClasses/NSMutableArray+QueueAdditions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator -DDEBUG -include /var/folders/tx/r6qyxf2145j8sv4mnvrzvf2c0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-afeymiwwrisvmebvicuyldjwkbbm/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.d --serialize-diagnostics /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.dia -c /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m -o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o36"A425BF40-FDAF-4F58-A8F7-F3907D71C02F-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s437947167.786048
+e437947168.636755
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m226"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o [1mClasses/UIDevice+Extensions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler63d4c91f8b1aba41^4f06a3208b1aba41^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m0000000000000000^3871"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o [1mClasses/UIDevice+Extensions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator -DDEBUG -include /var/folders/tx/r6qyxf2145j8sv4mnvrzvf2c0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-afeymiwwrisvmebvicuyldjwkbbm/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.d --serialize-diagnostics /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.dia -c /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m -o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o36"DFD9A219-DDA7-4A4A-A779-8D960F701E3B-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CCpHeader Classes/CDV.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDV.h
+s437947159.285075
+e437947159.310868
+r1
+xCpHeader
+xClasses/CDV.h
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDV.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Copy /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDV.h133"[1mCpHeader[0m Classes/CDV.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDV.h[0m18274a178b1aba41^8a7750178b1aba41^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDV.h003468a4deffdf42^708"[1mCpHeader[0m Classes/CDV.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDV.h[0m    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDV.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova36"5A77BF76-54F9-470E-B297-EE1B881AF1DF-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CCpHeader Classes/CDVAvailability.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+s437947159.289295
+e437947159.313179
+r1
+xCpHeader
+xClasses/CDVAvailability.h
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Copy /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h157"[1mCpHeader[0m Classes/CDVAvailability.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h[0mea404a178b1aba41^ec8750178b1aba41^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h003468a4deffdf42^744"[1mCpHeader[0m Classes/CDVAvailability.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h[0m    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVAvailability.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova36"C17D2AE7-584C-48F7-87B5-E7820E69CE05-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CCpHeader Classes/CDVCommandDelegate.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+s437947159.278207
+e437947159.285112
+r1
+xCpHeader
+xClasses/CDVCommandDelegate.h
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Copy /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h163"[1mCpHeader[0m Classes/CDVCommandDelegate.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h[0m320448178b1aba41^097149178b1aba41^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h003468a4deffdf42^753"[1mCpHeader[0m Classes/CDVCommandDelegate.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h[0m    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova36"17036F34-1669-469B-B670-5A56A7CC1010-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CCpHeader Classes/CDVCommandDelegateImpl.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+s437947159.321029
+e437947159.335800
+r1
+xCpHeader
+xClasses/CDVCommandDelegateImpl.h
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Copy /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h171"[1mCpHeader[0m Classes/CDVCommandDelegateImpl.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h[0mafd152178b1aba41^920356178b1aba41^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h003468a4deffdf42^765"[1mCpHeader[0m Classes/CDVCommandDelegateImpl.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h[0m    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova36"76EB81D4-FC47-4856-B144-06DF953FF37A-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CCpHeader Classes/CDVCommandQueue.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+s437947159.320868
+e437947159.336083
+r1
+xCpHeader
+xClasses/CDVCommandQueue.h
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Copy /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h157"[1mCpHeader[0m Classes/CDVCommandQueue.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h[0m7c6152178b1aba41^18b458178b1aba41^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h003468a4deffdf42^744"[1mCpHeader[0m Classes/CDVCommandQueue.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h[0m    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova36"BF867EF8-EFD4-467D-8C52-6A3E0D3F4F37-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CCpHeader Classes/CDVConfigParser.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+s437947159.341285
+e437947159.347424
+r1
+xCpHeader
+xClasses/CDVConfigParser.h
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Copy /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h157"[1mCpHeader[0m Classes/CDVConfigParser.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h[0m4f9557178b1aba41^45f05f178b1aba41^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h003468a4deffdf42^744"[1mCpHeader[0m Classes/CDVConfigParser.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h[0m    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVConfigParser.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova36"388993FF-F77F-44A7-A08B-6DDD9C2C6919-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CCpHeader Classes/CDVDebug.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+s437947159.221046
+e437947159.269688
+r1
+xCpHeader
+xClasses/CDVDebug.h
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Copy /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVDebug.h143"[1mCpHeader[0m Classes/CDVDebug.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVDebug.h[0ma11039178b1aba41^c23345178b1aba41^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVDebug.h003468a4deffdf42^723"[1mCpHeader[0m Classes/CDVDebug.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVDebug.h[0m    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVDebug.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova36"EF1EB0D5-CA12-4D24-8815-1C3AFD91D200-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CCpHeader Classes/CDVInvokedUrlCommand.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+s437947159.207399
+e437947159.217303
+r1
+xCpHeader
+xClasses/CDVInvokedUrlCommand.h
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Copy /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h167"[1mCpHeader[0m Classes/CDVInvokedUrlCommand.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h[0me1b335178b1aba41^7cd437178b1aba41^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h003468a4deffdf42^759"[1mCpHeader[0m Classes/CDVInvokedUrlCommand.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h[0m    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova36"72F4CE79-7F13-4E2F-97B1-A492AF689345-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CCpHeader Classes/CDVJSON.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+s437947159.341635
+e437947159.349738
+r1
+xCpHeader
+xClasses/CDVJSON.h
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Copy /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVJSON.h141"[1mCpHeader[0m Classes/CDVJSON.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVJSON.h[0mc66d58178b1aba41^a20c61178b1aba41^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVJSON.h003468a4deffdf42^720"[1mCpHeader[0m Classes/CDVJSON.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVJSON.h[0m    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVJSON.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova36"AE775C81-A4BA-4E84-8AB7-43FB2440BCE0-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CCpHeader Classes/CDVLocalStorage.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+s437947159.294566
+e437947159.320304
+r1
+xCpHeader
+xClasses/CDVLocalStorage.h
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Copy /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h157"[1mCpHeader[0m Classes/CDVLocalStorage.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h[0m94a44b178b1aba41^18cd52178b1aba41^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h003468a4deffdf42^744"[1mCpHeader[0m Classes/CDVLocalStorage.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h[0m    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova36"12FCD06F-443F-4644-B41A-C691DE1F1234-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CCpHeader Classes/CDVPlugin.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+s437947159.220450
+e437947159.271974
+r1
+xCpHeader
+xClasses/CDVPlugin.h
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Copy /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h145"[1mCpHeader[0m Classes/CDVPlugin.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h[0me03039178b1aba41^1cf045178b1aba41^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h003468a4deffdf42^726"[1mCpHeader[0m Classes/CDVPlugin.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h[0m    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVPlugin.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova36"D938C11A-511E-4D81-8184-9F4195D56012-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CCpHeader Classes/CDVPluginResult.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+s437947159.210306
+e437947159.218062
+r1
+xCpHeader
+xClasses/CDVPluginResult.h
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Copy /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h157"[1mCpHeader[0m Classes/CDVPluginResult.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h[0m1c0736178b1aba41^768b38178b1aba41^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h003468a4deffdf42^744"[1mCpHeader[0m Classes/CDVPluginResult.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h[0m    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVPluginResult.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova36"8D5C9757-BB88-45E7-8C91-21446482C7BA-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CCpHeader Classes/CDVScreenOrientationDelegate.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+s437947159.336634
+e437947159.344286
+r1
+xCpHeader
+xClasses/CDVScreenOrientationDelegate.h
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Copy /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h183"[1mCpHeader[0m Classes/CDVScreenOrientationDelegate.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h[0m855f56178b1aba41^5b955c178b1aba41^---0#0#1#-19%DVTDocumentLocation2@126"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h003468a4deffdf42^783"[1mCpHeader[0m Classes/CDVScreenOrientationDelegate.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h[0m    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova36"E579911F-94C0-462B-8F0D-F4E8127158E8-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CCpHeader Classes/CDVShared.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+s437947159.335054
+e437947159.343581
+r1
+xCpHeader
+xClasses/CDVShared.h
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Copy /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVShared.h145"[1mCpHeader[0m Classes/CDVShared.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVShared.h[0mda5356178b1aba41^0e845c178b1aba41^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVShared.h003468a4deffdf42^726"[1mCpHeader[0m Classes/CDVShared.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVShared.h[0m    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVShared.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova36"5A67DF4F-FAB1-473D-B975-25BD1110B67E-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CCpHeader Classes/CDVTimer.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+s437947159.373049
+e437947159.379421
+r1
+xCpHeader
+xClasses/CDVTimer.h
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Copy /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVTimer.h143"[1mCpHeader[0m Classes/CDVTimer.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVTimer.h[0m1bbc5f178b1aba41^bbf261178b1aba41^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVTimer.h003468a4deffdf42^723"[1mCpHeader[0m Classes/CDVTimer.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVTimer.h[0m    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVTimer.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova36"C9A986DA-6E55-4891-A645-B4A39E46BE2F-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CCpHeader Classes/CDVURLProtocol.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+s437947159.272141
+e437947159.282681
+r1
+xCpHeader
+xClasses/CDVURLProtocol.h
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Copy /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h155"[1mCpHeader[0m Classes/CDVURLProtocol.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h[0mbcce46178b1aba41^ad8a48178b1aba41^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h003468a4deffdf42^741"[1mCpHeader[0m Classes/CDVURLProtocol.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h[0m    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova36"A247AA4D-AEED-40DD-83E3-2D8EFAE70BD5-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CCpHeader Classes/CDVUserAgentUtil.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+s437947159.356416
+e437947159.375184
+r1
+xCpHeader
+xClasses/CDVUserAgentUtil.h
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Copy /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h159"[1mCpHeader[0m Classes/CDVUserAgentUtil.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h[0me7375c178b1aba41^ccd361178b1aba41^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h003468a4deffdf42^747"[1mCpHeader[0m Classes/CDVUserAgentUtil.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h[0m    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova36"80EC61FD-DDAE-441D-8DAC-A3BFE5559F66-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CCpHeader Classes/CDVViewController.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+s437947159.276301
+e437947159.282996
+r1
+xCpHeader
+xClasses/CDVViewController.h
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Copy /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVViewController.h161"[1mCpHeader[0m Classes/CDVViewController.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVViewController.h[0m828d47178b1aba41^63ec48178b1aba41^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVViewController.h003468a4deffdf42^750"[1mCpHeader[0m Classes/CDVViewController.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVViewController.h[0m    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVViewController.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova36"0C507B97-4164-4A3D-B62A-638F4F6B7B62-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CCpHeader Classes/CDVWebViewDelegate.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+s437947159.350674
+e437947159.355518
+r1
+xCpHeader
+xClasses/CDVWebViewDelegate.h
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Copy /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h163"[1mCpHeader[0m Classes/CDVWebViewDelegate.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h[0m7afd59178b1aba41^2eaa61178b1aba41^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h003468a4deffdf42^753"[1mCpHeader[0m Classes/CDVWebViewDelegate.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h[0m    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova36"86F00A1F-2C1D-4A25-B950-D635C35F9D54-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CCpHeader Classes/CDVWhitelist.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+s437947159.249313
+e437947159.272433
+r1
+xCpHeader
+xClasses/CDVWhitelist.h
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Copy /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h151"[1mCpHeader[0m Classes/CDVWhitelist.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h[0m2c1140178b1aba41^73b846178b1aba41^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h003468a4deffdf42^735"[1mCpHeader[0m Classes/CDVWhitelist.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h[0m    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/CDVWhitelist.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova36"CF7EF4CA-F91B-410F-86B2-D8288A50D393-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CCpHeader Classes/NSArray+Comparisons.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+s437947159.320246
+e437947159.337670
+r1
+xCpHeader
+xClasses/NSArray+Comparisons.h
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Copy /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h165"[1mCpHeader[0m Classes/NSArray+Comparisons.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h[0mc93b53178b1aba41^952857178b1aba41^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h003468a4deffdf42^756"[1mCpHeader[0m Classes/NSArray+Comparisons.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h[0m    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova36"58AB2955-1E12-4B26-83AA-A879EC760B97-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CCpHeader Classes/NSData+Base64.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+s437947159.209149
+e437947159.218367
+r1
+xCpHeader
+xClasses/NSData+Base64.h
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Copy /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h153"[1mCpHeader[0m Classes/NSData+Base64.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h[0ma3ae35178b1aba41^c6a738178b1aba41^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h003468a4deffdf42^738"[1mCpHeader[0m Classes/NSData+Base64.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h[0m    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSData+Base64.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova36"3B4B834F-4CDF-4E3C-8AE3-0A2FD5E700BC-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CCpHeader Classes/NSDictionary+Extensions.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+s437947159.206068
+e437947159.216866
+r1
+xCpHeader
+xClasses/NSDictionary+Extensions.h
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Copy /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h173"[1mCpHeader[0m Classes/NSDictionary+Extensions.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h[0m8ab035178b1aba41^f51138178b1aba41^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h003468a4deffdf42^768"[1mCpHeader[0m Classes/NSDictionary+Extensions.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h[0m    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova36"A9CCE0BB-3B7B-43CC-A32D-0AF1A056489C-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+s437947159.222405
+e437947159.270123
+r1
+xCpHeader
+xClasses/NSMutableArray+QueueAdditions.h
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Copy /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h185"[1mCpHeader[0m Classes/NSMutableArray+QueueAdditions.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h[0m838739178b1aba41^7a5345178b1aba41^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h003468a4deffdf42^786"[1mCpHeader[0m Classes/NSMutableArray+QueueAdditions.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h[0m    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova36"6F2B2FFE-E0D2-4355-8F9C-143579414E37-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CCpHeader Classes/UIDevice+Extensions.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+s437947159.315095
+e437947159.330671
+r1
+xCpHeader
+xClasses/UIDevice+Extensions.h
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Copy /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h165"[1mCpHeader[0m Classes/UIDevice+Extensions.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h[0m6adf50178b1aba41^587255178b1aba41^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h003468a4deffdf42^756"[1mCpHeader[0m Classes/UIDevice+Extensions.h [1m/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h[0m    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova36"9514EB8E-757E-4B11-B4F4-4041EA768ACF-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CLibtool /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/libCordova.a normal i386
+s437947169.720783
+e437947169.797809
+r1
+xLibtool
+x/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/libCordova.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"[1mLibtool[0m /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/libCordova.a normal i386113"[1mLibtool[0m /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/libCordova.a normal i3869dbcb8218b1aba41^5b40cc218b1aba41^---0#0#1#--1049"[1mLibtool[0m /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/libCordova.a normal i386    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export IPHONEOS_DEPLOYMENT_TARGET=6.0    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator -filelist /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/Cordova.LinkFileList -o /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/libCordova.a36"9FDF085B-FB86-4A95-8610-6E5BC01BD734-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+
+CProcessPCH /var/folders/tx/r6qyxf2145j8sv4mnvrzvf2c0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-afeymiwwrisvmebvicuyldjwkbbm/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s437947159.384306
+e437947164.415622
+r1
+xProcessPCH
+x/var/folders/tx/r6qyxf2145j8sv4mnvrzvf2c0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-afeymiwwrisvmebvicuyldjwkbbm/CordovaLib_Prefix.pch.pch
+xCordovaLib_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/CordovaLib_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Precompile CordovaLib_Prefix.pch299"[1mProcessPCH[0m /var/folders/tx/r6qyxf2145j8sv4mnvrzvf2c0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-afeymiwwrisvmebvicuyldjwkbbm/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf60a63178b1aba41^fe816a1c8b1aba41^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/CordovaLib_Prefix.pch0000000000000000^3797"[1mProcessPCH[0m /var/folders/tx/r6qyxf2145j8sv4mnvrzvf2c0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-afeymiwwrisvmebvicuyldjwkbbm/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator -DDEBUG --serialize-diagnostics /var/folders/tx/r6qyxf2145j8sv4mnvrzvf2c0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-afeymiwwrisvmebvicuyldjwkbbm/CordovaLib_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/tx/r6qyxf2145j8sv4mnvrzvf2c0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-afeymiwwrisvmebvicuyldjwkbbm/CordovaLib_Prefix.pch.d -c /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/CordovaLib/CordovaLib_Prefix.pch -o /var/folders/tx/r6qyxf2145j8sv4mnvrzvf2c0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-afeymiwwrisvmebvicuyldjwkbbm/CordovaLib_Prefix.pch.pch36"857CCE64-9127-419C-AB6D-0A4964D5BE97-
+b3E7157C4-59A0-4553-B54F-BE660B359620
+

@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/OWASPKALPMobileProject/Plugins/org.apache.cordova.file/CDVAssetLibraryFilesystem.m \
+  /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/OWASPKALPMobileProject/Plugins/org.apache.cordova.file/CDVFile.h \
+  /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h \
+  /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h \
+  /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h \
+  /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h \
+  /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h \
+  /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h \
+  /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/OWASPKALPMobileProject/Plugins/org.apache.cordova.file/CDVAssetLibraryFilesystem.h \
+  /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDV.h \
+  /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVViewController.h \
+  /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h \
+  /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h \
+  /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h \
+  /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h \
+  /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVDebug.h \
+  /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h \
+  /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVTimer.h \
+  /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h \
+  /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h \
+  /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h \
+  /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h \
+  /Users/D-_-aj/Desktop/Development/OWASPKALP/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
